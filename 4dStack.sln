@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4dStack", "4dStack.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Newliquidcrystal_1.3.5", "..\..\..\..\..\..\..\..\Documents\Arduino\libraries\Newliquidcrystal_1.3.5\Newliquidcrystal_1.3.5.vcxitems", "{28E128F5-30D3-475A-8671-A7C8BDC7078B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PID", "..\..\..\..\..\..\Documents\Arduino\libraries\PID\PID.vcxitems", "{DD8CB3FE-26A9-4175-8E5A-48DCF6B99AF5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StepperDriver-master", "..\..\..\..\..\..\Documents\Arduino\libraries\StepperDriver-master\StepperDriver-master.vcxitems", "{DCAAA59E-A606-451B-8240-15A229CF22B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimerThree-master", "..\..\..\..\..\..\Documents\Arduino\libraries\TimerThree-master\TimerThree-master.vcxitems", "{DD8E661C-029A-467D-A49B-CC2297A3C6CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U8glib", "..\..\..\..\..\..\Documents\Arduino\libraries\U8glib\U8glib.vcxitems", "{BC6492AB-B2CA-4540-81B7-16EDA95EA54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B7EF7F-A0F5-4D47-BE2C-B500228B8188}
+	EndGlobalSection
+EndGlobal
